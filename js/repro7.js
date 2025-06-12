@@ -1,4 +1,4 @@
     $("#stream1").icast({
-	    URL: "https://technoplayerserver.net:8200",
+	    URL: "https://technoplayerserver.net:8300",
 		version: "2",
     })
